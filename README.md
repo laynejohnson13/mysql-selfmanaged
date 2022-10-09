@@ -24,3 +24,7 @@ Setting up
 8. connect= f
 9. create_engine = create_engine(connection_string)
 10. create database template;
+
+**port added to include 3306
+
+**IP changed to 0.0.0.0
